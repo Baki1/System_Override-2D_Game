@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: cc376cfdfae1ce645abb3997fbf035ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3585952498406436911
+    second: olumekrani_0
+  - first:
+      213: -8294072335384165551
+    second: olumekrani_1
+  - first:
+      213: -2610630135769296509
+    second: olumekrani_2
+  - first:
+      213: 3806308778960749429
+    second: olumekrani_3
+  - first:
+      213: 6479684604115414347
+    second: olumekrani_4
+  - first:
+      213: -5548969633891416091
+    second: olumekrani_5
+  - first:
+      213: -3233289472624135875
+    second: olumekrani_6
+  - first:
+      213: -4941893364753659488
+    second: olumekrani_7
+  - first:
+      213: 1787054546021440555
+    second: olumekrani_8
+  - first:
+      213: -5247580284091830732
+    second: olumekrani_9
+  - first:
+      213: -8286831879935373391
+    second: olumekrani_10
+  - first:
+      213: 1228936304286411416
+    second: olumekrani_11
+  - first:
+      213: -3118207586254785442
+    second: olumekrani_12
+  - first:
+      213: -7638916287024844246
+    second: olumekrani_13
+  - first:
+      213: 4806037354030564007
+    second: olumekrani_14
+  - first:
+      213: 8506692229933229931
+    second: olumekrani_15
+  - first:
+      213: -655046261047657578
+    second: olumekrani_16
+  - first:
+      213: 7457411249612891157
+    second: olumekrani_17
+  - first:
+      213: 6982328727425210662
+    second: olumekrani_18
+  - first:
+      213: 7064212881071470045
+    second: olumekrani_19
+  - first:
+      213: 394000461435995653
+    second: olumekrani_20
+  - first:
+      213: -1109019969153982480
+    second: olumekrani_21
+  - first:
+      213: -2011802281659264795
+    second: olumekrani_22
+  - first:
+      213: 4114613862713039527
+    second: olumekrani_23
+  - first:
+      213: -566595864511807224
+    second: olumekrani_24
+  - first:
+      213: 1300457426211619323
+    second: olumekrani_25
+  - first:
+      213: -5243389512150304686
+    second: olumekrani_26
+  - first:
+      213: -7374958452526385034
+    second: olumekrani_27
+  - first:
+      213: -7680303332065329654
+    second: olumekrani_28
+  - first:
+      213: -6886562265257814406
+    second: olumekrani_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: olumekrani_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 670
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20b0f05cccd3c130800000000000000
+      internalID: 3585952498406436911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 567
+        width: 82
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1534804a72985ec80800000000000000
+      internalID: -8294072335384165551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 567
+        width: 86
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3819a8529bd25cbd0800000000000000
+      internalID: -2610630135769296509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 568
+        width: 36
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5730863faa9b2d430800000000000000
+      internalID: 3806308778960749429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 565
+        width: 34
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4deddc01d67ce950800000000000000
+      internalID: 6479684604115414347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 567
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7097684891ef2b0800000000000000
+      internalID: -5548969633891416091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_6
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 567
+        width: 87
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d317a38fa5c0123d0800000000000000
+      internalID: -3233289472624135875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_7
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1
+        width: 818
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a98ff30b2eda6bb0800000000000000
+      internalID: -4941893364753659488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_8
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 567
+        width: 61
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cdad134a4ecc810800000000000000
+      internalID: 1787054546021440555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_9
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 568
+        width: 64
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eec54d889dc27b0800000000000000
+      internalID: -5247580284091830732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_10
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 568
+        width: 84
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfc11b8f424ffc80800000000000000
+      internalID: -8286831879935373391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_11
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 567
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aa29cbe0f0e0110800000000000000
+      internalID: 1228936304286411416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_12
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 567
+        width: 80
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54fa55a8b6e9b4d0800000000000000
+      internalID: -3118207586254785442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_13
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 630
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2230f21c1e1df590800000000000000
+      internalID: -7638916287024844246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_14
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 570
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a20040928972b240800000000000000
+      internalID: 4806037354030564007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_15
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 569
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67eeb24387dd0670800000000000000
+      internalID: 8506692229933229931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 431
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b7eca65eec8e6f0800000000000000
+      internalID: -655046261047657578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 434
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514ad2d350c0e7760800000000000000
+      internalID: 7457411249612891157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_18
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 429
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6295f2fcbf636e060800000000000000
+      internalID: 6982328727425210662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_19
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 431
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5f0020030290260800000000000000
+      internalID: 7064212881071470045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_20
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 429
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5068b390555c77500800000000000000
+      internalID: 394000461435995653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_21
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 429
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff13c1c638fb90f0800000000000000
+      internalID: -1109019969153982480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_22
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 430
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0116bdb74a414e0800000000000000
+      internalID: -2011802281659264795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_23
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 429
+        width: 216
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa98ea028b0a1930800000000000000
+      internalID: 4114613862713039527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_24
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 431
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801819c201c0328f0800000000000000
+      internalID: -566595864511807224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_25
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 429
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1ccd693272c0210800000000000000
+      internalID: 1300457426211619323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_26
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 429
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258b545f40dbb37b0800000000000000
+      internalID: -5243389512150304686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_27
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 435
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67876e39c52e6a990800000000000000
+      internalID: -7374958452526385034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_28
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 429
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e3ffcbfc41a6590800000000000000
+      internalID: -7680303332065329654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olumekrani_29
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 433
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76d2b73b140e60a0800000000000000
+      internalID: -6886562265257814406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      olumekrani_0: 3585952498406436911
+      olumekrani_1: -8294072335384165551
+      olumekrani_10: -8286831879935373391
+      olumekrani_11: 1228936304286411416
+      olumekrani_12: -3118207586254785442
+      olumekrani_13: -7638916287024844246
+      olumekrani_14: 4806037354030564007
+      olumekrani_15: 8506692229933229931
+      olumekrani_16: -655046261047657578
+      olumekrani_17: 7457411249612891157
+      olumekrani_18: 6982328727425210662
+      olumekrani_19: 7064212881071470045
+      olumekrani_2: -2610630135769296509
+      olumekrani_20: 394000461435995653
+      olumekrani_21: -1109019969153982480
+      olumekrani_22: -2011802281659264795
+      olumekrani_23: 4114613862713039527
+      olumekrani_24: -566595864511807224
+      olumekrani_25: 1300457426211619323
+      olumekrani_26: -5243389512150304686
+      olumekrani_27: -7374958452526385034
+      olumekrani_28: -7680303332065329654
+      olumekrani_29: -6886562265257814406
+      olumekrani_3: 3806308778960749429
+      olumekrani_4: 6479684604115414347
+      olumekrani_5: -5548969633891416091
+      olumekrani_6: -3233289472624135875
+      olumekrani_7: -4941893364753659488
+      olumekrani_8: 1787054546021440555
+      olumekrani_9: -5247580284091830732
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
